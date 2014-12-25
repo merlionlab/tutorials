@@ -29,6 +29,11 @@
     	<version>2.1</version>
     	<type>pom</type>
     </dependency>
+    <dependency>
+    	<groupId>com.thoughtworks.xstream</groupId>
+    	<artifactId>xstream</artifactId>
+    	<version>1.4.7</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>spring_tutorial_01</finalName>
